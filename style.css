@@ -1,0 +1,81 @@
+body{
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.divvv{
+ background-color: rgba(130, 156, 186, 0.163);
+    width: 300px;
+    height: 300px;
+    box-shadow: 7px 7px 7px rgb(47, 46, 46);
+    text-align: center;
+    margin: auto;
+    border-radius: 15px;
+}
+.login{
+    color: rgb(252, 240, 255);
+}
+.lab_1{
+    text-align: right;
+}
+.b{
+
+    background-color: rgb(27, 86, 181);
+    text-align: center;
+    border-radius: 15px;
+}
+.span{
+    color: aliceblue;
+}
+.span1{
+    color: aliceblue;
+}
+.bbb{
+    text-decoration: none;
+    background-color: rgb(27, 86, 181);
+    border-radius: 15px;
+}
+.divv{
+    margin: auto;
+    box-shadow: 7px 7px 7px rgb(47, 46, 46);
+    background-color: rgb(172, 206, 206);
+    width: 400px;
+    height: 400px;
+    text-align: center;
+    border-radius: 15px;
+}
+a{
+    text-decoration: none;
+}
+.bb{
+    background-color: rgb(27, 86, 181);
+    text-align: center;
+    border-radius: 15px;
+}
+.aa{
+    color: aliceblue;
+}
+.input_1{
+    border-radius: 15px;
+}
+.input_2{
+    border-radius: 15px;
+}
+.input_3{
+    border-radius: 15px;
+}
+.input_4{
+    border-radius: 15px;
+}
+.input_5{
+    border-radius: 15px;
+}
+.input_6{
+    border-radius: 15px;
+}
+.input_7{
+    border-radius: 15px;
+}
+.input_8{
+    border-radius: 15px;
+}
